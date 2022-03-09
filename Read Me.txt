@@ -9,3 +9,6 @@ Capable: Offer a free easy to use and access website, that fetches information a
 Simple: Easy for anybody to use 
 Data Focused: Data-oriented architecture
 Fast: App logic should run quickly, and when possible, in parallel
+
+
+My Trello Board https://trello.com/b/MN6MnquB/val-app
