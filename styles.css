@@ -1,0 +1,17 @@
+body 
+{
+  background-color: #fa4454;}
+body { background-image: url("https://www.pcgamesn.com/wp-content/uploads/2020/07/valorant-tier-list-best-agents.jpg"); }
+h1 {
+     position: relative;
+     color: white;
+     font-style: oblique;
+     font-size: 40px;
+     left: 95px;}
+
+p {
+    position: relative;
+    left: 108px;
+    color: white;
+    font-size: 30px;
+    font-style: italic}

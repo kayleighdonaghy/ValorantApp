@@ -1,0 +1,40 @@
+#image1 {
+  display: block;
+  width: 300px;
+  height: 300px;
+  position: relative;
+  top: -180px;
+  left: 1410px;
+}
+
+#image2 {
+  width: 115px;
+  height: 115px;
+  position: relative;
+  left: 1770px;
+  bottom: 400px;
+}
+
+#image3 {
+  width: 110px;
+  height: 110px;
+  position: relative;
+  left: 1660px;
+  bottom: 320px;
+}
+
+#image4 {
+  width: 60px;
+  height: 60px;
+  position: relative;
+  left: 1570px;
+  bottom: 265px;
+}
+
+#image5 {
+  width: 60px;
+  height: 60px;
+  position: relative;
+  right: 280px;
+  top: -450px
+}

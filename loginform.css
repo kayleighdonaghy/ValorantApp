@@ -1,0 +1,17 @@
+body 
+{
+  background-color: #fa4454;
+}
+body { background-image: url(img/login2.jpg); }
+
+.tiledBackground {
+  background-image: url(img/login2.jpg);
+  background-size: 600px;
+  width: 150px;
+  height: 150px;
+}
+
+h1 {
+  background-color: #23f66d48;
+  color:#fa4f69;
+}
